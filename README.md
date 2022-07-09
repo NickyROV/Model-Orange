@@ -1,6 +1,5 @@
 # Model-Yellow
-Basic Switch-Board type control ROV
-DPDT motor direction ON/OFF control with no speed option
+Basic DPDT Switch-Board control ROV thruster ON/OFF Direction with no speed option
 
 Control : Switch Board with DPDT
 
