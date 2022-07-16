@@ -1,4 +1,4 @@
-# Model-Yellow
+# Model-Orange
 Basic DPDT Switch-Board control ROV thruster ON/OFF Direction with no speed option
 
 Frame : 16mm PVC Grey Pressure Pipe
