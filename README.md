@@ -1,5 +1,5 @@
 # Model-Orange
-Basic DPDT Switch-Board control ROV thruster ON/OFF Direction with no speed option
+Basic DPDT Switch-Board control 4 Single-Phase thruster with Forwaed/Backward Direction and speed option
 
 Frame : 16mm PVC Grey Pressure Pipe
 
